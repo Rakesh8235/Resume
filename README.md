@@ -10,3 +10,6 @@ Favicon: Add a favicon for your CV page.
 
 ## ⚙ Installation
 1. Clone the repository:
+2. [click here](https://github.com/Rakesh8235/Resume)
+
+3. [roadmap.sh url] (https://roadmap.sh/projects/single-page-cv)
